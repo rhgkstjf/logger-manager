@@ -1,0 +1,5 @@
+pytest==7.1.2
+fluent-logger
+requests
+urllib3
+twine
