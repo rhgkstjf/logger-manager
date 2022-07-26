@@ -3,3 +3,4 @@ fluent-logger
 requests
 urllib3
 twine
+pizza-logger-manager-g

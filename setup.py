@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-	name='rhgkstjf_logger_manager',
+	name='pizza_logger_manager_g',
 	version='1.0.0',
 	description='python simple logger manager',
 	author='rhgkstjf',
